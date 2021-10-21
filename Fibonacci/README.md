@@ -16,14 +16,3 @@ Neste desafio você aprenderá:
 - Controle de fluxo
 - Listas
 
-## Requisitos
-​
-Para este desafio você precisará :
-
-- Java 8 +
-
-Para instalar no MacOS, usando o HomeBrew basta executar:
-
-    brew cask install java
-
-Para instalar no Linux e no Windows, confira os links na seção de conteúdo.
